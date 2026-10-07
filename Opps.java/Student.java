@@ -1,5 +1,5 @@
 class Employee{
-    String name;
+    String name; // global varibale
     int age;
 
 }
