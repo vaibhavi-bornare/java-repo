@@ -20,7 +20,8 @@ public class PositveNumber {
 else{
     System.out.println("invalid number");
 }
-  
+
+
 
 
 
@@ -29,3 +30,4 @@ else{
     }
 
 }
+
