@@ -37,6 +37,6 @@ public class EmployeeDepartment {
 		 Display dis = new Display();
 		 dis.show();
 		 
-		 Display.m1();// statis method called using methodname 
+		 Display.m1();// statis method called using  classname and methodname
 	}
 }
