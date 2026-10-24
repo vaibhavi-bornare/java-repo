@@ -2,6 +2,7 @@
 // and methods together inside 
 // a class and protecting the data from direct access.
 
+// private access specifer is use 
 // class is exmaple of encapsulation
 
 
